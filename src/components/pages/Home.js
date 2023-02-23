@@ -14,7 +14,7 @@ export default function Home() {
           <img src={profileImage} />
         </div>
       </div>
-      <p className="JF">Welcome to Jonathan Fregoso's Profile</p>
+      <p className="JF">Lets get coding</p>
       <div class="card"></div>
     </div>
   );

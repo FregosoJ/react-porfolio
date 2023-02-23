@@ -1,0 +1,21 @@
+.home {
+    background-color:rgba(123, 12, 12, 0.906) ;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.picture {
+    width: 450px;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
+
+.greeting {
+    background-color: rgba(123, 12, 12, 0.906);
+        color: white;
+        display: flex;
+        justify-content: center;
+}
+
